@@ -18,6 +18,7 @@ consistently triggers 401 Unauthorized errors in older libraries.
 4. "JointSpace" and "Philips" are trademarks of their respective owners.
 
 ---
+!!!ONLY TESTED ON MACOS!!!
 
 ## DEEP DIVE: REVERSE ENGINEERING THE V6 HANDSHAKE
 
