@@ -83,7 +83,7 @@ Password.
    `pip install requests`
 
 2. **Run the Client:**
-   `python3 main.py`
+   `python3 "youros".py`
 
 3. **Pairing:**
    Follow the prompts to enter the TV IP and the 4-digit PIN. The script will 
